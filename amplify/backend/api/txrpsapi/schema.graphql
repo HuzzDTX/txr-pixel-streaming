@@ -1,0 +1,7 @@
+type Instance @model {
+  id: ID!
+  name: String!
+  ip: String
+  port: String
+  free: Boolean
+}
