@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"txrpixelstreamingb6b6009b": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
